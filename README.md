@@ -1,4 +1,5 @@
-### Hi I'm Nacho 👋
+### Hi I'm Nacho👋
+ ###### 🌱 Full Stack student
 
 <!--
 **Nachogj35/Nachogj35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
