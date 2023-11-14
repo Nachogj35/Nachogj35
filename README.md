@@ -2,8 +2,7 @@
  ###### 🌱 Full Stack student
 <div style="display:flex; flex-direction: column;">
     <div style="display:flex;">
-        <img width=80px; height=80px src="https://github.com/Nachogj35/Nachogj35/blob/main/cabe.jpg"/>
-        <div style="display:flex; flex-direction: column; margin-left: 10px; margin-top:-20px;">
+        <img src="https://github.com/Nachogj35/Nachogj35/blob/main/cabe.jpg"
 </div>
 <!--
 **Nachogj35/Nachogj35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
