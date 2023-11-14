@@ -4,9 +4,6 @@
     <div style="display:flex;">
         <img width=80px; height=80px src="https://www.canva.com/design/DAF0Iyd6dy4/view"/>
         <div style="display:flex; flex-direction: column; margin-left: 10px; margin-top:-20px;">
-            <p>Texto 1</p>
-            <p style="margin-top:-20px;">Texto 2</p>
-            <p style="margin-top:-20px;">Texto 3</p>
 </div>
 <!--
 **Nachogj35/Nachogj35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
