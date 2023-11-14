@@ -2,7 +2,7 @@
  ###### 🌱 Full Stack student
 <div style="display:flex; flex-direction: column;">
     <div style="display:flex;">
-        <img width=80px; height=80px src="https://www.canva.com/design/DAF0Iyd6dy4/view"/>
+        <img width=80px; height=80px src="https://github.com/Nachogj35/Nachogj35/blob/main/cabe.jpg"/>
         <div style="display:flex; flex-direction: column; margin-left: 10px; margin-top:-20px;">
 </div>
 <!--
