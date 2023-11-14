@@ -1,8 +1,6 @@
 ### Hi I'm Nacho👋
  ###### 🌱 Full Stack student
-<iframe loading="lazy" style="position: relative; width: 100%; height: 600px; max-height: 80vh; border: none; padding: 0; margin: 0; overflow: hidden;"
-      src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAF0Iyd6dy4&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
-</iframe>
+![Descripción de la imagen](https://www.canva.com/design/DAF0Iyd6dy4/view)
 <!--
 **Nachogj35/Nachogj35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
