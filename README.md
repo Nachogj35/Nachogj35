@@ -3,7 +3,11 @@
     <div style="display:flex;">
         <img src="https://github.com/Nachogj35/Nachogj35/blob/main/cabe.jpg"
 </div>
-### 🌱 Full Stack student
+        
+### 🤓 Full Stack student
+#### 🤖 I’m currently learning programming to access a better future💪
+#### I'm interested in travel 🌍✈️ , sports 🏃‍♂️, reading 📖, code & friends 🧑‍🤝‍🧑
+
 <!--
 **Nachogj35/Nachogj35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
