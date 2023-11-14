@@ -1,9 +1,9 @@
-### Hi I'm Nacho👋
- ###### 🌱 Full Stack student
+## Hi I'm Nacho👋
 <div style="display:flex; flex-direction: column;">
     <div style="display:flex;">
         <img src="https://github.com/Nachogj35/Nachogj35/blob/main/cabe.jpg"
 </div>
+      #### 🌱 Full Stack student
 <!--
 **Nachogj35/Nachogj35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
